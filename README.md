@@ -39,7 +39,9 @@ The dashboard provides an overview of sales performance, item categories, outlet
 
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard](BlinkIT_Dashboard.png)
+ ## 📷 Dashboard Preview
+
+![Blinkit Dashboard](./Blinkit-Dashboard.png)
 
 ## 🎯 Skills Demonstrated
 
